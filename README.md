@@ -8,7 +8,7 @@
 
 Topsis-Yuvraj-102017081 is a python library which uses technique called TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) to solve Multiple-Criteria Decision Making (MCDM) problems.
 
-
+[Install the pypi package](https://pypi.org/project/Topsis-Yuvraj-102017081/)
 
 
               
